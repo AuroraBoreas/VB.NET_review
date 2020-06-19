@@ -1,0 +1,12 @@
+E:\csharpj\VB_02_ReadExcel\bin\Debug\VB_02_ReadExcel.exe.config
+E:\csharpj\VB_02_ReadExcel\bin\Debug\VB_02_ReadExcel.exe
+E:\csharpj\VB_02_ReadExcel\bin\Debug\VB_02_ReadExcel.pdb
+E:\csharpj\VB_02_ReadExcel\bin\Debug\VB_02_ReadExcel.xml
+E:\csharpj\VB_02_ReadExcel\obj\Debug\VB_02_ReadExcel.vbprojAssemblyReference.cache
+E:\csharpj\VB_02_ReadExcel\obj\Debug\VB_02_ReadExcel.Form1.resources
+E:\csharpj\VB_02_ReadExcel\obj\Debug\VB_02_ReadExcel.Resources.resources
+E:\csharpj\VB_02_ReadExcel\obj\Debug\VB_02_ReadExcel.vbproj.GenerateResource.cache
+E:\csharpj\VB_02_ReadExcel\obj\Debug\VB_02_ReadExcel.vbproj.CoreCompileInputs.cache
+E:\csharpj\VB_02_ReadExcel\obj\Debug\VB_02_ReadExcel.exe
+E:\csharpj\VB_02_ReadExcel\obj\Debug\VB_02_ReadExcel.xml
+E:\csharpj\VB_02_ReadExcel\obj\Debug\VB_02_ReadExcel.pdb
