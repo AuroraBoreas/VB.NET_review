@@ -1,0 +1,12 @@
+E:\DotNetProjects\VB_04_RealTimeCalculator\bin\Debug\VB_04_RealTimeCalculator.exe.config
+E:\DotNetProjects\VB_04_RealTimeCalculator\bin\Debug\VB_04_RealTimeCalculator.exe
+E:\DotNetProjects\VB_04_RealTimeCalculator\bin\Debug\VB_04_RealTimeCalculator.pdb
+E:\DotNetProjects\VB_04_RealTimeCalculator\bin\Debug\VB_04_RealTimeCalculator.xml
+E:\DotNetProjects\VB_04_RealTimeCalculator\obj\Debug\VB_04_RealTimeCalculator.vbprojAssemblyReference.cache
+E:\DotNetProjects\VB_04_RealTimeCalculator\obj\Debug\VB_04_RealTimeCalculator.Form1.resources
+E:\DotNetProjects\VB_04_RealTimeCalculator\obj\Debug\VB_04_RealTimeCalculator.Resources.resources
+E:\DotNetProjects\VB_04_RealTimeCalculator\obj\Debug\VB_04_RealTimeCalculator.vbproj.GenerateResource.cache
+E:\DotNetProjects\VB_04_RealTimeCalculator\obj\Debug\VB_04_RealTimeCalculator.vbproj.CoreCompileInputs.cache
+E:\DotNetProjects\VB_04_RealTimeCalculator\obj\Debug\VB_04_RealTimeCalculator.exe
+E:\DotNetProjects\VB_04_RealTimeCalculator\obj\Debug\VB_04_RealTimeCalculator.xml
+E:\DotNetProjects\VB_04_RealTimeCalculator\obj\Debug\VB_04_RealTimeCalculator.pdb
