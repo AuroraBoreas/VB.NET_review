@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SimpleAPP02_ComboBox/1.0.0": {
+        "runtime": {
+          "SimpleAPP02_ComboBox.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleAPP02_ComboBox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

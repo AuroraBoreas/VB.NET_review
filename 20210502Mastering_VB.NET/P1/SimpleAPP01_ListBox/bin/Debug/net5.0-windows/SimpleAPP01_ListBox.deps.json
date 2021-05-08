@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SimpleAPP01_ListBox/1.0.0": {
+        "runtime": {
+          "SimpleAPP01_ListBox.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleAPP01_ListBox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
