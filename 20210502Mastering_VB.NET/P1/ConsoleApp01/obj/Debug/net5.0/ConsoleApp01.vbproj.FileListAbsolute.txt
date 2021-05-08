@@ -1,0 +1,16 @@
+C:\Users\Aurora_Boreas\Desktop\20210502Mastering_VB.NET\P1\ConsoleApp01\bin\Debug\net5.0\ConsoleApp01.exe
+C:\Users\Aurora_Boreas\Desktop\20210502Mastering_VB.NET\P1\ConsoleApp01\bin\Debug\net5.0\ConsoleApp01.deps.json
+C:\Users\Aurora_Boreas\Desktop\20210502Mastering_VB.NET\P1\ConsoleApp01\bin\Debug\net5.0\ConsoleApp01.runtimeconfig.json
+C:\Users\Aurora_Boreas\Desktop\20210502Mastering_VB.NET\P1\ConsoleApp01\bin\Debug\net5.0\ConsoleApp01.runtimeconfig.dev.json
+C:\Users\Aurora_Boreas\Desktop\20210502Mastering_VB.NET\P1\ConsoleApp01\bin\Debug\net5.0\ConsoleApp01.dll
+C:\Users\Aurora_Boreas\Desktop\20210502Mastering_VB.NET\P1\ConsoleApp01\bin\Debug\net5.0\ref\ConsoleApp01.dll
+C:\Users\Aurora_Boreas\Desktop\20210502Mastering_VB.NET\P1\ConsoleApp01\bin\Debug\net5.0\ConsoleApp01.pdb
+C:\Users\Aurora_Boreas\Desktop\20210502Mastering_VB.NET\P1\ConsoleApp01\obj\Debug\net5.0\ConsoleApp01.vbprojAssemblyReference.cache
+C:\Users\Aurora_Boreas\Desktop\20210502Mastering_VB.NET\P1\ConsoleApp01\obj\Debug\net5.0\ConsoleApp01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aurora_Boreas\Desktop\20210502Mastering_VB.NET\P1\ConsoleApp01\obj\Debug\net5.0\ConsoleApp01.AssemblyInfoInputs.cache
+C:\Users\Aurora_Boreas\Desktop\20210502Mastering_VB.NET\P1\ConsoleApp01\obj\Debug\net5.0\ConsoleApp01.AssemblyInfo.vb
+C:\Users\Aurora_Boreas\Desktop\20210502Mastering_VB.NET\P1\ConsoleApp01\obj\Debug\net5.0\ConsoleApp01.vbproj.CoreCompileInputs.cache
+C:\Users\Aurora_Boreas\Desktop\20210502Mastering_VB.NET\P1\ConsoleApp01\obj\Debug\net5.0\ConsoleApp01.dll
+C:\Users\Aurora_Boreas\Desktop\20210502Mastering_VB.NET\P1\ConsoleApp01\obj\Debug\net5.0\ref\ConsoleApp01.dll
+C:\Users\Aurora_Boreas\Desktop\20210502Mastering_VB.NET\P1\ConsoleApp01\obj\Debug\net5.0\ConsoleApp01.pdb
+C:\Users\Aurora_Boreas\Desktop\20210502Mastering_VB.NET\P1\ConsoleApp01\obj\Debug\net5.0\ConsoleApp01.genruntimeconfig.cache
