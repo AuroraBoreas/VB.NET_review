@@ -1,0 +1,17 @@
+C:\Users\Aurora_Boreas\Desktop\20210502Mastering_VB.NET\P1\SimpleAPP07_FileDialog\bin\Debug\net5.0-windows\SimpleAPP07_FileDialog.exe
+C:\Users\Aurora_Boreas\Desktop\20210502Mastering_VB.NET\P1\SimpleAPP07_FileDialog\bin\Debug\net5.0-windows\SimpleAPP07_FileDialog.deps.json
+C:\Users\Aurora_Boreas\Desktop\20210502Mastering_VB.NET\P1\SimpleAPP07_FileDialog\bin\Debug\net5.0-windows\SimpleAPP07_FileDialog.runtimeconfig.json
+C:\Users\Aurora_Boreas\Desktop\20210502Mastering_VB.NET\P1\SimpleAPP07_FileDialog\bin\Debug\net5.0-windows\SimpleAPP07_FileDialog.runtimeconfig.dev.json
+C:\Users\Aurora_Boreas\Desktop\20210502Mastering_VB.NET\P1\SimpleAPP07_FileDialog\bin\Debug\net5.0-windows\SimpleAPP07_FileDialog.dll
+C:\Users\Aurora_Boreas\Desktop\20210502Mastering_VB.NET\P1\SimpleAPP07_FileDialog\bin\Debug\net5.0-windows\ref\SimpleAPP07_FileDialog.dll
+C:\Users\Aurora_Boreas\Desktop\20210502Mastering_VB.NET\P1\SimpleAPP07_FileDialog\bin\Debug\net5.0-windows\SimpleAPP07_FileDialog.pdb
+C:\Users\Aurora_Boreas\Desktop\20210502Mastering_VB.NET\P1\SimpleAPP07_FileDialog\obj\Debug\net5.0-windows\SimpleAPP07_FileDialog.Form1.resources
+C:\Users\Aurora_Boreas\Desktop\20210502Mastering_VB.NET\P1\SimpleAPP07_FileDialog\obj\Debug\net5.0-windows\SimpleAPP07_FileDialog.vbproj.GenerateResource.cache
+C:\Users\Aurora_Boreas\Desktop\20210502Mastering_VB.NET\P1\SimpleAPP07_FileDialog\obj\Debug\net5.0-windows\SimpleAPP07_FileDialog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aurora_Boreas\Desktop\20210502Mastering_VB.NET\P1\SimpleAPP07_FileDialog\obj\Debug\net5.0-windows\SimpleAPP07_FileDialog.AssemblyInfoInputs.cache
+C:\Users\Aurora_Boreas\Desktop\20210502Mastering_VB.NET\P1\SimpleAPP07_FileDialog\obj\Debug\net5.0-windows\SimpleAPP07_FileDialog.AssemblyInfo.vb
+C:\Users\Aurora_Boreas\Desktop\20210502Mastering_VB.NET\P1\SimpleAPP07_FileDialog\obj\Debug\net5.0-windows\SimpleAPP07_FileDialog.vbproj.CoreCompileInputs.cache
+C:\Users\Aurora_Boreas\Desktop\20210502Mastering_VB.NET\P1\SimpleAPP07_FileDialog\obj\Debug\net5.0-windows\SimpleAPP07_FileDialog.dll
+C:\Users\Aurora_Boreas\Desktop\20210502Mastering_VB.NET\P1\SimpleAPP07_FileDialog\obj\Debug\net5.0-windows\ref\SimpleAPP07_FileDialog.dll
+C:\Users\Aurora_Boreas\Desktop\20210502Mastering_VB.NET\P1\SimpleAPP07_FileDialog\obj\Debug\net5.0-windows\SimpleAPP07_FileDialog.pdb
+C:\Users\Aurora_Boreas\Desktop\20210502Mastering_VB.NET\P1\SimpleAPP07_FileDialog\obj\Debug\net5.0-windows\SimpleAPP07_FileDialog.genruntimeconfig.cache
