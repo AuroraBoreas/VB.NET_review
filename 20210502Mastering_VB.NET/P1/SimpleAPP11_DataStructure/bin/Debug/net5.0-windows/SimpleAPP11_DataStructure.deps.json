@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SimpleAPP11_DataStructure/1.0.0": {
+        "runtime": {
+          "SimpleAPP11_DataStructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleAPP11_DataStructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
