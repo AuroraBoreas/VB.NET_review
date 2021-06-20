@@ -25,6 +25,10 @@ Module Program
     End Function
 
     Function CountFiles(fromDate As Date, toDate As Date) As Integer
+        '''<summary>simple function demonstrates how to count files</summary>
+        '''<param>fromDate</param>
+        '''<param>toDate</param>
+        '''<remarks>nothing biggy</remarks>
         Debug.WriteLine($"you have requested files created from {fromDate} to {toDate}")
         Dim i, c As Integer
         Dim fi As System.IO.FileInfo
