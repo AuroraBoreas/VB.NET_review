@@ -1,4 +1,4 @@
-﻿Imports System.Collections
+﻿Imports System.Collections.Generic
 
 Namespace VBMeta
     Public Module Meta
@@ -318,7 +318,7 @@ Namespace VBMeta
                 MyBase.New(name, sex)
             End Sub
 
-            Public Function Equals(rhs As Person) As Boolean
+            Public Function IsEquals(rhs As Person) As Boolean
                 Return Me.ToString().Equals(rhs.ToString())
             End Function
         End Class
@@ -343,11 +343,12 @@ Namespace VBMeta
             ' (seq)bi-direction containers: Array, Vector, List, Dequeue
             ' (adapter)mono-direction containers: queue, stack, priority_queue
             ' (associative)associative containers: map, multimap, set, multiset
-            Dim wives As New List(Of Person)
-            wives.Add(New PersonEx("WLL", "Female"))
-            wives.Add(New Person("SCY", "Female"))
-            wives.Add(New PersonEx("TS", "Female"))
-            wives.Add(New PersonEx("TXY", "Female"))
+            Dim wives As New List(Of Person) From {
+                New PersonEx("WLL", "Female"),
+                New Person("SCY", "Female"),
+                New PersonEx("TS", "Female"),
+                New PersonEx("TXY", "Female")
+            }
 
             Dim p1 As Person = New PersonEx("ZL", "Male")
 
@@ -356,6 +357,16 @@ Namespace VBMeta
                 If p.GetType() = GetType(PersonEx) Then
                     Console.WriteLine($"wife: {p.Name} matches {p1.Name}? {p.Equals(p1)}")
                 End If
+            Next
+
+            Dim citis As New Dictionary(Of String, Integer) From {
+                {"Shang Hai", 1},
+                {"New York", 2},
+                {"Tokyo", 3},
+                {"Toronto", 4}
+            }
+            For Each item In citis
+                Console.WriteLine($"{item.Key} : {item.Value}")
             Next
         End Sub
 
@@ -371,7 +382,38 @@ Namespace VBMeta
             ' algo_raw_memory
             ' algo_secret_rune
             ' algo_lone_island
+            ' Iterator; const iterator
+            ' Capacity
+            ' Access
+            ' Modifier
+            ' List observer
+            ' Bucket
+            ' Hash Policy
+            Dim A As New HashSet(Of Integer) From {
+                1, 2, 3, 4, 5, 5
+            }
+            Dim B As New HashSet(Of Integer) From {
+                4, 5, 6, 7, 8, 8
+            }
 
+            ' umids
+            Console.Write("std::set_union, S-> ")
+            For Each item As Integer In A.Union(B)
+                Console.Write($"{item}, ")
+            Next
+
+            'Linq
+            Console.Write($"{vbCrLf}Linq, S-> ")
+            Dim numbers As New List(Of Integer)
+            For i As Integer = 0 To 10
+                numbers.Add(i)
+            Next
+
+            Dim rv As IEnumerable(Of Integer) = From number In numbers Where number Mod 2 = 0 Select number
+            For Each i As Integer In rv
+                Console.Write($"{i}, ")
+            Next
+            Console.WriteLine()
         End Sub
     End Module
 End Namespace
